@@ -1,10 +1,35 @@
+<!-- In your _config.yml, add this setting: -->
+<!-- avatar: "/img/avatar.jpg" -->
+
 <header>
     <div class="header-content">
         <div class="header-content-inner">
-            <h1>Your Favorite Source of Free Bootstrap Themes</h1>
+            {% if site.avatar %}
+            <div class="mb-4">
+                <img src="{{ site.avatar | relative_url }}" alt="Avatar" class="avatar-image rounded-circle shadow-sm">
+            </div>
+            {% endif %}
+            <h1>Isabella Pearce</h1>
             <hr>
-            <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+            <p>Text here</p>
             <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
         </div>
     </div>
 </header>
+
+<style>
+/* Custom styles to complement Bootstrap */
+.avatar-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 0px solid rgba(255, 255, 255, 0.8);
+}
+
+@media (max-width: 768px) {
+    .avatar-image {
+        width: 150px;
+        height: 150px;
+    }
+}
+</style>
