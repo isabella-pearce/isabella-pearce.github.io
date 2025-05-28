@@ -1,6 +1,6 @@
 - id: project-1
-  name: "Web Design Project"
-  category: "Web Development"
+  name: "100 Years of Phantom"
+  category: "Rolls-Royce Motor Cars"
   image: "img/portfolio/1.jpg"
   alt: "Web design project screenshot"
   description: "A comprehensive web design project showcasing modern UI/UX principles and responsive design techniques."
@@ -11,11 +11,11 @@
   tech_stack: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Sass"]
   github_url: "https://github.com/yourusername/web-design-project"
   demo_url: "https://your-demo-url.com/web-design"
-  date: "2024-12"
+  date: "2025-05"
 
 - id: project-2
-  name: "HAHHA LOL"
-  category: "UI/UX Design"
+  name: "The Most Poweful Rolls-Royce, Ever"
+  category: "Rolls-Royce Motor Cars"
   image: "img/portfolio/2.jpg"
   alt: "Mobile app interface design"
   description: "An innovative mobile app interface design focusing on user experience and modern design patterns."
@@ -26,7 +26,7 @@
   tech_stack: ["Figma", "Adobe XD", "Principle", "InVision"]
   github_url: null
   demo_url: "https://your-demo-url.com/mobile-app"
-  date: "2024-11"
+  date: "2025-02"
 
 - id: project-3
   name: "Brand Identity"
