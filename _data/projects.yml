@@ -16,7 +16,7 @@
 - id: project-2
   name: "The Most Powerful Rolls-Royce, Ever"
   category: "Rolls-Royce Motor Cars"
-  image: "img/portfolio/BBS2.jpg"
+  image: "img/portfolio/BBS.jpg"
   alt: "Mobile app interface design"
   description: "An innovative mobile app interface design focusing on user experience and modern design patterns."
   details: |
@@ -31,7 +31,7 @@
 - id: project-3
   name: "The Truth Uncovered"
   category: "Al Jazeera English"
-  image: "img/portfolio/BBS3.jpg"
+  image: "img/portfolio/3.jpg"
   alt: "Brand identity design showcase"
   description: "Complete brand identity development including logo design, color palette, and brand guidelines."
   details: |
@@ -47,7 +47,7 @@
 - id: project-4
   name: "XXX"
   category: "BACARDÍ"
-  image: "img/portfolio/BBS.jpg"
+  image: "img/portfolio/4.jpg"
   alt: "E-commerce website design"
   description: "Full-stack e-commerce platform with modern shopping cart functionality and payment integration."
   details: |
@@ -62,7 +62,7 @@
 - id: project-5
   name: "XXX"
   category: "Nando's"
-  image: "img/portfolio/aje1.jpg"
+  image: "img/portfolio/5.jpg"
   alt: "Interactive data visualization"
   description: "Interactive data visualization dashboard for complex dataset analysis and insights."
   details: |
@@ -78,7 +78,7 @@
 - id: project-6
   name: "XXX"
   category: "GlobalData"
-  image: "img/portfolio/aje2.jpg"
+  image: "img/portfolio/6.jpg"
   alt: "Photography portfolio showcase"
   description: "Professional photography portfolio website with gallery management and client booking system."
   details: |
@@ -93,7 +93,7 @@
 - id: project-7
   name: "XXX"
   category: "Martini"
-  image: "img/portfolio/6.jpg"
+  image: "img/portfolio/7.jpg"
   alt: "Mobile application showcase"
   description: "Cross-platform mobile application with native performance and modern user interface."
   details: |
@@ -108,7 +108,7 @@
 - id: project-8
   name: "XXX"
   category: "B!POD"
-  image: "img/portfolio/6.jpg"
+  image: "img/portfolio/8.jpg"
   alt: "Machine learning project visualization"
   description: "Machine learning model for predictive analytics with web-based interface for data input and results."
   details: |
