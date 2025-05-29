@@ -44,78 +44,50 @@
   demo_url: null
   date: "2025-01"
 
-- id: project-4
-  name: "XXX"
-  category: "BACARDÍ"
+  - id: project-4
+  name: "The Truth Uncovered"
+  category: "Al Jazeera English"
   image: "img/portfolio/4.jpg"
-  alt: "E-commerce website design"
-  description: "Full-stack e-commerce platform with modern shopping cart functionality and payment integration."
+  alt: "Brand identity design showcase"
+  description: "Complete brand identity development including logo design, color palette, and brand guidelines."
   details: |
-    Built a complete e-commerce solution featuring user authentication, product catalog management, 
-    shopping cart functionality, and secure payment processing. The platform includes admin 
-    dashboard for inventory management and order tracking with real-time analytics.
-  tech_stack: ["React", "Node.js", "MongoDB", "Stripe API", "Express.js"]
-  github_url: "https://github.com/yourusername/ecommerce-platform"
-  demo_url: "https://your-demo-url.com/ecommerce"
-  date: "2024-09"
-
-- id: project-5
-  name: "XXX"
-  category: "Nando's"
-  image: "img/portfolio/5.jpg"
-  alt: "Interactive data visualization"
-  description: "Interactive data visualization dashboard for complex dataset analysis and insights."
-  details: |
-    Developed an interactive dashboard for visualizing complex datasets with real-time updates. 
-    Features include multiple chart types, filtering capabilities, and export functionality. 
-    The project demonstrates proficiency in data processing and creating meaningful visual 
-    representations of large datasets.
-  tech_stack: ["Python", "D3.js", "Pandas", "Flask", "PostgreSQL"]
-  github_url: "https://github.com/yourusername/data-visualization"
-  demo_url: "https://your-demo-url.com/data-viz"
-  date: "2023-06"
-
-- id: project-6
-  name: "XXX"
-  category: "GlobalData"
-  image: "img/portfolio/6.jpg"
-  alt: "Photography portfolio showcase"
-  description: "Professional photography portfolio website with gallery management and client booking system."
-  details: |
-    Custom-built photography portfolio website featuring responsive image galleries, 
-    client testimonials, and integrated booking system. The site showcases various 
-    photography styles and includes a content management system for easy portfolio updates.
-  tech_stack: ["WordPress", "PHP", "MySQL", "Lightroom", "Photoshop"]
+    Comprehensive brand identity project that involved creating a cohesive visual language 
+    for a modern tech startup. Deliverables included logo design, typography selection, 
+    color palette development, and detailed brand guidelines for consistent application 
+    across all marketing materials.
+  tech_stack: ["Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
   github_url: null
-  demo_url: "https://your-demo-url.com/photography"
-  date: "2023-05"
-
-- id: project-7
-  name: "XXX"
-  category: "Martini"
-  image: "img/portfolio/7.jpg"
-  alt: "Mobile application showcase"
-  description: "Cross-platform mobile application with native performance and modern user interface."
-  details: |
-    Developed a cross-platform mobile application using React Native, featuring offline 
-    functionality, push notifications, and seamless user experience. The app includes 
-    user authentication, real-time messaging, and integration with third-party APIs.
-  tech_stack: ["React Native", "Firebase", "Redux", "TypeScript"]
-  github_url: "https://github.com/yourusername/mobile-app"
   demo_url: null
-  date: "2022-12"
+  date: "2025-01"
 
-- id: project-8
-  name: "XXX"
-  category: "B!POD"
-  image: "img/portfolio/8.jpg"
-  alt: "Machine learning project visualization"
-  description: "Machine learning model for predictive analytics with web-based interface for data input and results."
+  - id: project-5
+  name: "The Truth Uncovered"
+  category: "Al Jazeera English"
+  image: "img/portfolio/5.jpg"
+  alt: "Brand identity design showcase"
+  description: "Complete brand identity development including logo design, color palette, and brand guidelines."
   details: |
-    Built and deployed a machine learning model for predictive analytics with a user-friendly 
-    web interface. The project includes data preprocessing, model training, validation, 
-    and deployment pipeline. Features real-time predictions and model performance monitoring.
-  tech_stack: ["Python", "Scikit-learn", "TensorFlow", "Flask", "Docker"]
-  github_url: "https://github.com/yourusername/ml-project"
-  demo_url: "https://your-demo-url.com/ml-demo"
-  date: "2022-09"
+    Comprehensive brand identity project that involved creating a cohesive visual language 
+    for a modern tech startup. Deliverables included logo design, typography selection, 
+    color palette development, and detailed brand guidelines for consistent application 
+    across all marketing materials.
+  tech_stack: ["Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
+  github_url: null
+  demo_url: null
+  date: "2025-01"
+
+  - id: project-6
+  name: "The Truth Uncovered"
+  category: "Al Jazeera English"
+  image: "img/portfolio/6.jpg"
+  alt: "Brand identity design showcase"
+  description: "Complete brand identity development including logo design, color palette, and brand guidelines."
+  details: |
+    Comprehensive brand identity project that involved creating a cohesive visual language 
+    for a modern tech startup. Deliverables included logo design, typography selection, 
+    color palette development, and detailed brand guidelines for consistent application 
+    across all marketing materials.
+  tech_stack: ["Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
+  github_url: null
+  demo_url: null
+  date: "2025-01"
