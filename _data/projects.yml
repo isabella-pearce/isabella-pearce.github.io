@@ -1,7 +1,7 @@
 - id: project-1
   name: "100 Years of Phantom"
   category: "Rolls-Royce Motor Cars"
-  image: "img/portfolio/P100.webp"
+  image: "img/portfolio/100.jpg"
   alt: "Web design project screenshot"
   description: "A comprehensive web design project showcasing modern UI/UX principles and responsive design techniques."
   details: |
@@ -31,7 +31,7 @@
 - id: project-3
   name: "The Truth Uncovered"
   category: "Al Jazeera English"
-  image: "img/portfolio/aje.jpg"
+  image: "img/portfolio/BBS.jpg"
   alt: "Brand identity design showcase"
   description: "Complete brand identity development including logo design, color palette, and brand guidelines."
   details: |
