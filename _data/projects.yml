@@ -1,7 +1,7 @@
 - id: project-1
   name: "100 Years of Phantom"
   category: "Rolls-Royce Motor Cars"
-  image: "img/portfolio/100.jpg"
+  image: "img/portfolio/P100.webp"
   alt: "Web design project screenshot"
   description: "A comprehensive web design project showcasing modern UI/UX principles and responsive design techniques."
   details: |
@@ -16,7 +16,7 @@
 - id: project-2
   name: "The Most Powerful Rolls-Royce, Ever"
   category: "Rolls-Royce Motor Cars"
-  image: "img/portfolio/BBS.jpg"
+  image: "img/portfolio/BBS1.jpg"
   alt: "Mobile app interface design"
   description: "An innovative mobile app interface design focusing on user experience and modern design patterns."
   details: |
